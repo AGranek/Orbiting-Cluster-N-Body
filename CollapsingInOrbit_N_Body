@@ -16,6 +16,8 @@
 # 3. Displaying the time series, or saving it.
 #    One can display a saved time series.
 
+# NumPy and Matplotlib are required.
+
 # Further explanations are given in the code.
 
 # Written by Alon Granek, 2020.
